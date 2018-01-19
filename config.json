@@ -1,0 +1,13 @@
+{
+    "chat_id": 1234,
+    "API": {
+        "telegram": "xxxxx",
+        "steam": "xxxxx"
+    },
+    "players": [{
+            "name": "John Doe",
+            "telegram_id": "-1",
+            "steam_id": 1234
+        }
+    ]
+}
